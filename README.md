@@ -22,6 +22,6 @@ técnicas.
 - Hobbies:
   - 🎮 Games
   - 🎶 Produção Musical
-  - 🏋️‍♂️ Workout
+  
 
 
