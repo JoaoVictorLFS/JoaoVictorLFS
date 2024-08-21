@@ -1,4 +1,3 @@
-
 - Habilidades:
   - Python
   - Machine Learning
